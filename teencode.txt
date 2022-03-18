@@ -1,4 +1,4 @@
-t	tôi
+t	tao
 1	một
 2	hai
 3	ba
