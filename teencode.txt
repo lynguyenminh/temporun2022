@@ -249,7 +249,6 @@ ck	chồng
 chk	chồng
 ngta	người ta
 gđ	gia đình
-oh	ồ
 vk	vợ
 ctác	công tác
 sg	sài gòn
