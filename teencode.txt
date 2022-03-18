@@ -1,4 +1,14 @@
 t	tôi
+1 một
+2 hai
+3 ba
+4 bốn
+5 năm
+6 sáu
+7 bảy
+8 tám
+9 chín
+10  mười
 m	mày
 r	rồi
 dzô	vô
@@ -156,7 +166,7 @@ nhưq	nhưng
 cđời	cuộc đời
 bthường	bình thường
 zà	già
-k0 kh
+k0  không
 đáh	đánh
 xloi	xin lỗi
 zám	dám
