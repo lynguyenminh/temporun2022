@@ -1,0 +1,6 @@
+tqdm
+pyvi
+rank-bm25
+tf-models-official==2.3.0
+enchant
+pyenchant
